@@ -180,7 +180,7 @@ CHECK_ORDERS_SCHEDULE=0 */6 * * *
 Sử dụng MongoDB Atlas hoặc server riêng:
 
 ```env
-MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/order-tracking-bot
+MONGODB_URI=mongodb+srv://<YOUR_USERNAME>:<YOUR_PASSWORD>@<YOUR_CLUSTER>.mongodb.net/order-tracking-bot
 ```
 
 ## 🐛 Xử lý lỗi
